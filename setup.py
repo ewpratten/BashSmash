@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name='bashsmash',
-    version='1.1',
+    version='1.2',
     packages=['bashsmash'],
     description='A python3 tool for obfuscating bash shell code',
     url='https://github.com/Ewpratten/BashSmash',

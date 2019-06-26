@@ -17,7 +17,7 @@ def main():
 
     # List of functions we need
     functions = {
-        "printf": lambda args: f"/???/???/???n?f {args};",
+        "printf": lambda args: f"/???/??n/???n?f {args};",
     }
 
     def constructChar(char: str) -> str:
