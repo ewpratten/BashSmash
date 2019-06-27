@@ -21,3 +21,8 @@ Or, by piping through stdin:
 # The result will be sent to stdout
 echo "echo Hello, World\!" | bashsmash -
 ```
+
+## Possible upcoming features
+ - Read from file
+ - Reverse a smashed script
+ - Further obfuscation
